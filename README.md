@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @maxzilion
-- 👀 I’m interested in WEB design
-- 🌱 I’m currently learning front end development and full stack development
+- 👋 Hi, I’m Emmanuel
+- 👀 I’m a front-end web developer
+-
 - 💞️ I’m looking to collaborate on modern websites
 - 📫 How to reach me emaxzy.technology@gmail.com
 
